@@ -5,7 +5,7 @@
 <div align="center">
 
   [![Status](https://img.shields.io/badge/status-inactive-red.svg)]()
-  [![CodeSize](https://img.shields.io/github/languages/code-size/pythonjul/gshc-database-project)]()
+
 
 </div>
 
