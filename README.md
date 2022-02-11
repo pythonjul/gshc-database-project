@@ -74,7 +74,7 @@ And now we use the two views created above to calculate what we wanted, i.e. the
 SELECT ((ts_buts)/(nb_tot_matchs)) as [nb_but_moy_par_match], (60/nb_but_moy_par_match) as [marque_tous_les_enMinutes]
 from nb_matchs_joues,somme_buts_marques; 
 ```
-Query 2)
+- Query 2)
 Which players do not have Swiss nationality?
 
 We start by creating a "view" that will list all nationalities in list_nationalities.
